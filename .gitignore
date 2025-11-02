@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Data and results
+data/
+results/
+!/results/templates/
+!/results/samples/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Docker
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
