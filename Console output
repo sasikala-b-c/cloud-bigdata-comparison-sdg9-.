@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-11-02T04:35:12Z",
+  "rows": 1000000,
+  "runtime_s": 128.742,
+  "partitions": 200,
+  "with_ml": false,
+  "input_dir": "data",
+  "output_dir": "results/output",
+  "spark_version": "3.5.1"
+}
